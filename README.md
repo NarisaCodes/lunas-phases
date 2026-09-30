@@ -3,4 +3,5 @@ This is a web app intended for people that want to get the Moon's current phase,
 
 # CREDITS
 CSS - Google Gemini
+
 [SunCalc](https://github.com/mourner/suncalc)
